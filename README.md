@@ -4,10 +4,6 @@
 - Sou formado na área da saúde e estou em transição de carreira.
 - Estudo desenvolvimento fron-end desde o início de 2023.
 
-#
-
-![Snake animation](https://github.com/kaique-feitosa/kaique-feitosa/blob/output/github-contribution-grid-snake.svg)
-
 ### Ferramentas e Tecnologias
 #### Linguagens:
 <div>
