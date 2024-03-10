@@ -1,5 +1,3 @@
-<header><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></header>
-<body>
 # Olá, me chamo Kaique Feitosa !
 
 ## Bem vindo ao meu perfil GitHub
