@@ -4,7 +4,7 @@
 - Sou formado na área da saúde e estou em transição de carreira.
 - Estudo desenvolvimento front-end desde o início de 2023.
 
-### Ferramentas e Tecnologias
+### Tecnologias
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="50" width="50" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="50" width="50" />
