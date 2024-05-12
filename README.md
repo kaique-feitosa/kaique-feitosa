@@ -1,7 +1,7 @@
 
 # Olá, eu sou Kaique Feitosa
 
-Sou formado em odontologia há 1 ano e meio, e estou em transicão de carreira para a área de tecnologia. Sempre fui apaixonado por tecnologia mas acabei desviando um pouco de área. Venho estudando desenvolvimento web a quase 1 ano, atualmente estou fazendo formações e cursos de front-end pela Alura e bootcamp na DIO para explorar um pouco a parte de back-end, mas estou me organizando para começar uma nova graduação em tecnologia.
+Sou formado na área de saúde há 1 ano e meio, e estou em transicão de carreira para a área de tecnologia. Sempre fui apaixonado por tecnologia mas acabei desviando um pouco de área. Venho estudando desenvolvimento web a quase 1 ano, atualmente estou fazendo formações e cursos de front-end pela Alura e bootcamp na DIO para explorar um pouco a parte de back-end, mas estou me organizando para começar uma nova graduação em tecnologia.
 
 ### Conecte-se comigo
 
