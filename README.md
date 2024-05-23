@@ -13,18 +13,19 @@ Sou formado na área de saúde há 1 ano e meio, e estou em transicão de carrei
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 #### Conhecimento básico em:
+![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Estudando no momento
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 ### 🔧 Ferramentas
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
