@@ -18,14 +18,15 @@ Sou formado na área de saúde há 1 ano e meio, e estou em transicão de carrei
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 #### Conhecimento básico em:
-![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-000000?style=for-the-badge&logo=bootstrap&labelColor=000000)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Estudando no momento
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Vue](https://img.shields.io/badge/vuejs-000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### 🔧 Ferramentas
 ![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
